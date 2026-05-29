@@ -420,28 +420,35 @@ def norm(s):
     return re.sub(r"[^a-z0-9]+", "", s.lower())
 
 def main():
-    if len(sys.argv) != 3:
+    if len(sys.argv) not in (3, 4):
         print(__doc__); sys.exit(1)
     src, dst = sys.argv[1], sys.argv[2]
+    # Optional 3rd argument: a JSON file with the [{"from","to"}, ...] map for
+    # another unit. If omitted, fall back to the Unit 1 map baked in above.
+    mapping = MAPPING
+    if len(sys.argv) == 4:
+        import json
+        with open(sys.argv[3], encoding="utf-8") as fh:
+            mapping = json.load(fh)
     os.makedirs(dst, exist_ok=True)
     have = {}
     for f in os.listdir(src):
         if f.lower().endswith(".mp3"):
             have[norm(os.path.splitext(f)[0])] = f
     copied, missing = 0, []
-    for m in MAPPING:
+    for m in mapping:
         key = norm(os.path.splitext(m["from"])[0])
         if key in have:
             shutil.copyfile(os.path.join(src, have[key]), os.path.join(dst, m["to"]))
             copied += 1
         else:
             missing.append(m["from"])
-    print("Copied %d of %d files into %s" % (copied, len(MAPPING), dst))
+    print("Copied %d of %d files into %s" % (copied, len(mapping), dst))
     if missing:
         print("\nCould NOT find matches for these (check the source folder):")
         for x in missing: print("  -", x)
     else:
-        print("All 100 files matched and copied. You're ready to commit.")
+        print("All %d files matched and copied. You're ready to commit." % len(mapping))
 
 if __name__ == "__main__":
     main()
