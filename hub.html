@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unit — AP World Vocabulary</title>
+<link rel="stylesheet" href="assets/styles.css">
+<script>window.APWH_BASE='';</script>
+<script src="assets/data-loader.js"></script>
+</head>
+<body>
+<div class="topbar"><a class="home" href="index.html">AP World History</a><span class="crumb" id="crumb">Unit</span></div>
+<div class="wrap">
+  <div class="kicker" id="kick">Vocabulary Practice</div>
+  <h1 id="title">Loading…</h1>
+  <p class="sub" id="sub"></p>
+  <div class="grid" id="games"></div>
+</div>
+<script>
+var GAMES = [
+  {f:'flashcards', n:'Flashcards', t:'Listen &amp; flip', d:'Hear each term pronounced, then flip the card to read its definition. Scroll through all 100.'},
+  {f:'match-definition', n:'Pick the definition', t:'Term &rarr; meaning', d:'See a term and choose its correct definition from four options. Keep trying until you get it.'},
+  {f:'match-term', n:'Pick the term', t:'Meaning &rarr; term', d:'Read a definition and choose the term it describes from four options.'},
+  {f:'fill-blank', n:'Type the term', t:'Free recall', d:'Read the clue and type the term yourself. The answer stays hidden until you get it right.'},
+  {f:'categorize-concepts', n:'Sort by concept', t:'Drag &amp; drop', d:'Drag each term into the right concept group — religion, government, economy, and more.'},
+  {f:'categorize-regions', n:'Map the regions', t:'Drag onto the map', d:'Drag each place-based term onto the world region where it belongs.'}
+];
+APWH.load(function(unit, id){
+  document.getElementById('crumb').textContent = unit.title;
+  document.getElementById('kick').textContent = unit.subtitle ? ('Vocabulary \u00b7 ' + unit.subtitle) : 'Vocabulary';
+  document.getElementById('title').textContent = unit.title;
+  document.getElementById('sub').textContent = unit.terms.length + ' key terms \u00b7 six ways to practice';
+  var g = document.getElementById('games');
+  GAMES.forEach(function(game){
+    var a = document.createElement('a');
+    a.className = 'gamecard';
+    a.href = 'games/' + game.f + '.html?unit=' + id;
+    a.innerHTML = '<div class="ic">' + game.t + '</div><h3>' + game.n + '</h3><p>' + game.d + '</p>';
+    g.appendChild(a);
+  });
+});
+</script>
+</body>
+</html>

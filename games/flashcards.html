@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flashcards — AP World Vocabulary</title>
+<link rel="stylesheet" href="../assets/styles.css">
+<script>window.APWH_BASE='../';</script>
+<script src="../assets/data-loader.js"></script>
+</head>
+<body>
+<div class="topbar"><a class="home" href="../index.html">AP World History</a><a class="crumb" id="back" href="#">&larr; Unit</a><span class="spacer"></span><span class="counter" id="count"></span></div>
+<div class="wrap">
+  <div class="kicker">Flashcards</div>
+  <h1 style="font-size:28px">Listen &amp; flip</h1>
+  <p class="sub">Tap the card to flip it. Use the speaker to hear the term.</p>
+  <div class="progress"><i id="bar"></i></div>
+  <div class="flip" id="flip">
+    <div class="flip-inner">
+      <div class="face front">
+        <div class="term" id="term"></div>
+        <button class="audio" id="say" type="button" aria-label="Play pronunciation">&#9658; Hear it</button>
+        <div class="hint">tap card to flip</div>
+      </div>
+      <div class="face back"><div class="def" id="def"></div></div>
+    </div>
+  </div>
+  <div class="controls">
+    <button class="btn" id="prev" type="button">&larr; Previous</button>
+    <button class="btn primary" id="next" type="button">Next &rarr;</button>
+    <span class="spacer"></span>
+    <button class="btn ghost" id="shuffle" type="button">Shuffle</button>
+  </div>
+</div>
+<script>
+APWH.load(function(unit, id){
+  document.getElementById('back').href = '../hub.html?unit=' + id;
+  var order = unit.terms.map(function(_,i){return i;}), pos = 0;
+  var flip = document.getElementById('flip');
+  function cur(){ return unit.terms[order[pos]]; }
+  function render(){
+    var t = cur();
+    flip.classList.remove('flipped');
+    document.getElementById('term').textContent = t.term;
+    document.getElementById('def').innerHTML = '<b>' + t.term + ':</b> ' + t.definition;
+    document.getElementById('count').textContent = (pos+1) + ' / ' + order.length;
+    document.getElementById('bar').style.width = ((pos+1)/order.length*100) + '%';
+    document.getElementById('prev').disabled = pos===0;
+  }
+  flip.addEventListener('click', function(e){ if(e.target.closest('#say')) return; flip.classList.toggle('flipped'); });
+  document.getElementById('say').addEventListener('click', function(){ APWH.play(unit, cur()); });
+  document.getElementById('next').addEventListener('click', function(){ pos=(pos+1)%order.length; render(); });
+  document.getElementById('prev').addEventListener('click', function(){ if(pos>0){pos--;render();} });
+  document.getElementById('shuffle').addEventListener('click', function(){ order=APWH.shuffle(order); pos=0; render(); });
+  render();
+});
+</script>
+</body>
+</html>

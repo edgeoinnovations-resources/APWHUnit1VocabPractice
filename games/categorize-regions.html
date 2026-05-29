@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Map the regions — AP World Vocabulary</title>
+<link rel="stylesheet" href="../assets/styles.css">
+<script>window.APWH_BASE='../';</script>
+<script src="../assets/data-loader.js"></script>
+<script src="../assets/categorize.js"></script>
+</head>
+<body>
+<div class="topbar"><a class="home" href="../index.html">AP World History</a><a class="crumb" id="back" href="#">&larr; Unit</a><span class="spacer"></span><span class="counter" id="count"></span></div>
+<div class="wrap">
+  <div class="kicker">Map the regions</div>
+  <h1 style="font-size:28px">Drag each term onto its region</h1>
+  <p class="sub">Drag a term onto the matching region of the map — or tap a term, then tap a region. Only place-based terms appear here; broad concepts like feudalism are left out on purpose.</p>
+  <div class="progress"><i id="bar"></i></div>
+  <div id="board"></div>
+  <div class="done" id="done"></div>
+  <div class="controls"><span class="spacer"></span><button class="btn primary" id="more" type="button" style="display:none">Next round &rarr;</button></div>
+</div>
+<script>
+var ROUND = 10;
+var LAYOUT = {
+  americas:[3,24,16,46], europe:[32,5,15,22], africa:[31,50,15,42],
+  islam:[49,28,17,24], ssasia:[64,52,17,30], eastasia:[81,16,16,34]
+};
+APWH.load(function(unit, id){
+  document.getElementById('back').href = '../hub.html?unit=' + id;
+  var placeable = unit.terms.filter(function(t){ return t.region; });
+  var queue = APWH.shuffle(placeable.slice());
+  var done = document.getElementById('done'), more = document.getElementById('more');
+  function renderRound(){
+    var batch = queue.splice(0, ROUND);
+    done.classList.remove('show'); more.style.display='none';
+    var board = document.getElementById('board'); board.innerHTML='';
+    var map = document.createElement('div'); map.className='map';
+    Object.keys(LAYOUT).forEach(function(k){
+      var p = LAYOUT[k];
+      var z = document.createElement('div'); z.className='zone'; z.dataset.zone=k; z.dataset.reg=k; z.tabIndex=0;
+      z.setAttribute('role','button'); z.setAttribute('aria-label','Place in '+unit.regions[k]);
+      z.style.cssText='left:'+p[0]+'%;top:'+p[1]+'%;width:'+p[2]+'%;height:'+p[3]+'%';
+      z.innerHTML = '<div class="zname">'+unit.regions[k]+'</div>';
+      map.appendChild(z);
+    });
+    board.appendChild(map);
+    var tray = document.createElement('div'); tray.className='tray'; tray.style.marginTop='16px';
+    APWH.shuffle(batch).forEach(function(t){
+      var c = document.createElement('button'); c.type='button'; c.className='chip';
+      c.textContent = t.term; c.dataset.answers = t.region;
+      tray.appendChild(c);
+    });
+    board.appendChild(tray);
+    APWH.initCategorize(board, { snapParent: map, onProgress: function(s, tot){
+      document.getElementById('count').textContent = s+' / '+tot+' this round';
+      document.getElementById('bar').style.width = (s/tot*100)+'%';
+      if (s===tot){
+        if (queue.length){ done.textContent='Round complete! '+queue.length+' terms left.'; done.classList.add('show'); more.style.display='inline-block'; }
+        else { done.textContent='Every place-based term is on the map. Well done.'; done.classList.add('show'); }
+      }
+    }});
+  }
+  more.addEventListener('click', renderRound);
+  renderRound();
+});
+</script>
+</body>
+</html>

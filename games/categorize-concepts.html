@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sort by concept — AP World Vocabulary</title>
+<link rel="stylesheet" href="../assets/styles.css">
+<script>window.APWH_BASE='../';</script>
+<script src="../assets/data-loader.js"></script>
+<script src="../assets/categorize.js"></script>
+</head>
+<body>
+<div class="topbar"><a class="home" href="../index.html">AP World History</a><a class="crumb" id="back" href="#">&larr; Unit</a><span class="spacer"></span><span class="counter" id="count"></span></div>
+<div class="wrap">
+  <div class="kicker">Sort by concept</div>
+  <h1 style="font-size:28px">Drag each term to its concept group</h1>
+  <p class="sub">Drag a term into the group it belongs to — or tap a term, then tap a group. A few terms fit two groups and are correct in either one.</p>
+  <div class="progress"><i id="bar"></i></div>
+  <div id="board"></div>
+  <div class="done" id="done"></div>
+  <div class="controls"><span class="spacer"></span><button class="btn primary" id="more" type="button" style="display:none">Next round &rarr;</button></div>
+</div>
+<script>
+var ROUND = 12;
+APWH.load(function(unit, id){
+  document.getElementById('back').href = '../hub.html?unit=' + id;
+  var queue = APWH.shuffle(unit.terms.slice());
+  var done = document.getElementById('done'), more = document.getElementById('more');
+  function renderRound(){
+    var batch = queue.splice(0, ROUND);
+    done.classList.remove('show'); more.style.display='none';
+    var board = document.getElementById('board'); board.innerHTML='';
+    var tray = document.createElement('div'); tray.className='tray';
+    APWH.shuffle(batch).forEach(function(t){
+      var c = document.createElement('button'); c.type='button'; c.className='chip';
+      c.textContent = t.term; c.dataset.answers = t.concepts.join(',');
+      tray.appendChild(c);
+    });
+    board.appendChild(tray);
+    var grid = document.createElement('div'); grid.className='zones-grid';
+    Object.keys(unit.concepts).forEach(function(k){
+      var z = document.createElement('div'); z.className='zone'; z.dataset.zone=k; z.tabIndex=0;
+      z.setAttribute('role','button'); z.setAttribute('aria-label','Place in '+unit.concepts[k]);
+      z.innerHTML = '<div class="zname">'+unit.concepts[k]+'</div><div class="zchips"></div>';
+      grid.appendChild(z);
+    });
+    board.appendChild(grid);
+    APWH.initCategorize(board, { onProgress: function(s, tot){
+      document.getElementById('count').textContent = s+' / '+tot+' this round';
+      document.getElementById('bar').style.width = (s/tot*100)+'%';
+      if (s===tot){
+        if (queue.length){ done.textContent='Round complete! '+queue.length+' terms left.'; done.classList.add('show'); more.style.display='inline-block'; }
+        else { done.textContent='All 100 terms sorted by concept. Nicely done.'; done.classList.add('show'); }
+      }
+    }});
+  }
+  more.addEventListener('click', renderRound);
+  renderRound();
+});
+</script>
+</body>
+</html>

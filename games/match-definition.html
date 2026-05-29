@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pick the definition — AP World Vocabulary</title>
+<link rel="stylesheet" href="../assets/styles.css">
+<script>window.APWH_BASE='../';</script>
+<script src="../assets/data-loader.js"></script>
+</head>
+<body>
+<div class="topbar"><a class="home" href="../index.html">AP World History</a><a class="crumb" id="back" href="#">&larr; Unit</a><span class="spacer"></span><span class="counter" id="count"></span></div>
+<div class="wrap">
+  <div class="kicker">Pick the definition</div>
+  <h1 style="font-size:28px">Term &rarr; meaning</h1>
+  <p class="sub">Choose the definition that matches the term. Wrong answers stay wrong — keep trying until you find the right one.</p>
+  <div class="progress"><i id="bar"></i></div>
+  <div class="panel">
+    <div class="prompt">What does this term mean?</div>
+    <div class="bigterm"><span id="term"></span><button class="audio" id="say" type="button" style="margin-top:0">&#9658;</button></div>
+    <div class="options" id="opts"></div>
+    <div class="tf" id="tf"></div>
+  </div>
+  <div class="controls"><span class="spacer"></span><button class="btn primary" id="next" type="button" disabled>Next &rarr;</button></div>
+</div>
+<script>
+APWH.load(function(unit, id){
+  document.getElementById('back').href = '../hub.html?unit=' + id;
+  var order = APWH.shuffle(unit.terms.map(function(_,i){return i;})), pos = 0;
+  function render(){
+    var t = unit.terms[order[pos]];
+    document.getElementById('term').textContent = t.term;
+    document.getElementById('count').textContent = (pos+1) + ' / ' + order.length;
+    document.getElementById('bar').style.width = (pos/order.length*100) + '%';
+    document.getElementById('tf').textContent=''; document.getElementById('tf').className='tf';
+    document.getElementById('next').disabled = true;
+    document.getElementById('say').onclick = function(){ APWH.play(unit, t); };
+    var choices = APWH.shuffle(APWH.sample(unit.terms, 3, t).concat([t]));
+    var box = document.getElementById('opts'); box.innerHTML='';
+    choices.forEach(function(c){
+      var b = document.createElement('button'); b.className='opt'; b.type='button'; b.textContent=c.definition;
+      b.onclick = function(){
+        if (c === t){
+          b.classList.add('right');
+          [].forEach.call(box.children, function(x){ x.disabled=true; });
+          var tf=document.getElementById('tf'); tf.textContent='Correct!'; tf.className='tf ok';
+          document.getElementById('next').disabled=false;
+        } else {
+          b.classList.add('wrong'); b.disabled=true;
+          var tf=document.getElementById('tf'); tf.textContent='Not quite — try another.'; tf.className='tf no';
+        }
+      };
+      box.appendChild(b);
+    });
+  }
+  document.getElementById('next').addEventListener('click', function(){
+    pos++;
+    if (pos>=order.length){ document.querySelector('.panel').innerHTML='<div class="bigterm">All done!</div><p class="sub">You matched every term to its definition.</p>'; document.getElementById('bar').style.width='100%'; document.getElementById('next').disabled=true; return; }
+    render();
+  });
+  render();
+});
+</script>
+</body>
+</html>
