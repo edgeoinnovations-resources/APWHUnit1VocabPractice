@@ -1,0 +1,1023 @@
+{
+  "id": "unit6",
+  "title": "Unit 6: Consequences of Industrialization",
+  "subtitle": "1750–1900",
+  "concepts": {
+    "rel": "Religions & Belief Systems",
+    "gov": "Government & Political Organization",
+    "soc": "Social Structure & Hierarchy",
+    "econ": "Economy, Trade & Technology",
+    "states": "States & Empires",
+    "people": "People & Key Figures"
+  },
+  "regions": {
+    "eastasia": "East Asia",
+    "islam": "Dar al-Islam",
+    "ssasia": "South & Southeast Asia",
+    "americas": "The Americas",
+    "africa": "Africa",
+    "europe": "Europe"
+  },
+  "terms": [
+    {
+      "term": "1833 Slavery Abolition Act",
+      "definition": "ended slavery in parts of the British Empire which created a need for labor. Workers from British West Indian territories were recruited to fill the labor gap",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "1833-slavery-abolition-act.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Alexander Graham Bell",
+      "definition": "invented the telephone in 1876. The patent for the telephone was the most valuable patent ever issued",
+      "concepts": [
+        "people"
+      ],
+      "region": null,
+      "audio": "alexander-graham-bell.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Alessandro Volta",
+      "definition": "an Italian scientist who invented the first electric battery",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "alessandro-volta.mp3",
+      "sentence": null
+    },
+    {
+      "term": "André-Marie Ampère",
+      "definition": "a French man who worked out the principles governing the magnetic effect of electricity now known as electromagnetism",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "andre-marie-ampere.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Anarchist",
+      "definition": "person who opposes all forms of government",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "anarchist.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Assembly Line",
+      "definition": "a method of manufacturing in which a product is put together as it moves along a belt with individuals stationed along the belt to work on specific tasks",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "assembly-line.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Assimilation",
+      "definition": "the act of becoming part of another culture",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "assimilation.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Banana Republics",
+      "definition": "small Central American countries that fell under the economic power of foreign corporations",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "banana-republics.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Berlin Conference",
+      "definition": "a meeting of several European powers to discuss the orderly colonization of Africa in which colonial boundaries and trade movements were established",
+      "concepts": [
+        "gov"
+      ],
+      "region": "africa",
+      "audio": "berlin-conference.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bessemer Process",
+      "definition": "process to make stronger steel at a lower cost",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "bessemer-process.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Black Gold",
+      "definition": "nickname for oil",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "black-gold.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Boer Wars",
+      "definition": "also known as the Anglo-Boer Wars, were two wars fought in 1880-1881 and 1899-1902 between the British Empire and two independent Boer states: the South African Republic and the Orange Free State. The conflicts arose over the unwanted presence of the British Empire",
+      "concepts": [
+        "gov"
+      ],
+      "region": "africa",
+      "audio": "boer-wars.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bourgeoisie",
+      "definition": "owners during the capitalist stage of the 1800s that Marx believed was unfair to the proletariat",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "bourgeoisie.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Boxer Rebellion",
+      "definition": "a violent, armed uprising in China that sought to drive all foreigners from China from 1899 to 1901",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "boxer-rebellion.mp3",
+      "sentence": null
+    },
+    {
+      "term": "British East India Company",
+      "definition": "monopolistic trading body established by the British which exploited Southeast Asia and India for trade. It was a catalyst for the spread of British influence in the area",
+      "concepts": [
+        "econ"
+      ],
+      "region": "ssasia",
+      "audio": "british-east-india-company.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Cartels",
+      "definition": "corporate combinations that control entire industries",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "cartels.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Collective Bargaining",
+      "definition": "groups of workers from industry unions that negotiate with management for workers as a group",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "collective-bargaining.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Compulsory Education",
+      "definition": "the requirement that children attend school through a certain age",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "compulsory-education.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Congo Free State",
+      "definition": "privately owned colony by King Leopold II of Belgium from 1885-1908 in which he kept all profits and exploited workers. As many as 8 million died under Leopold’s reign",
+      "concepts": [
+        "gov"
+      ],
+      "region": "africa",
+      "audio": "congo-free-state.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Cottage Industry",
+      "definition": "manufacturing that occurs in a person’s home such as weaving",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "cottage-industry.mp3",
+      "sentence": null
+    },
+    {
+      "term": "The Chinese Exclusion Act",
+      "definition": "U.S. federal law signed by President Chester A. Arthur in 1882 that prohibited all immigration of Chinese laborers",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "chinese-exclusion-act.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Chinese Immigration Act",
+      "definition": "an 1855 response to the large influx of Chinese miners in Australia that limited the number of Chinese immigrants that came ashore from each ship",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "chinese-immigration-act.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Culture System",
+      "definition": "introduced by the Dutch in 1830 the Dutch East Indies in which farmers had to choose between growing cash crops for export or performing mandatory unpaid work",
+      "concepts": [
+        "econ"
+      ],
+      "region": "ssasia",
+      "audio": "culture-system.mp3",
+      "sentence": null
+    },
+    {
+      "term": "David Ricardo",
+      "definition": "a British political economist who wrote Principles of Political Economy and Taxation; He stated that working class poverty was inevitable because supply and demand determines wages, and as population grows, wages drop because there are more workers",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "david-ricardo.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Division of Labor",
+      "definition": "assigning different parts or tasks of the manufacturing process to different people in order to improve efficiency",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "division-of-labor.mp3",
+      "sentence": null
+    },
+    {
+      "term": "The Enclosure Movement",
+      "definition": "a movement in England to take land that was public land and change it to privately owned land usually encircled with walls, fences, or hedges",
+      "concepts": [
+        "econ"
+      ],
+      "region": "europe",
+      "audio": "enclosure-movement.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Economic Imperialism",
+      "definition": "when foreign business interests have great economic power and influence which takes advantage of natural resources outside their borders",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "economic-imperialism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Edmund Cartwright",
+      "definition": "English inventor of the first wool combing machine",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "edmund-cartwright.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Eli Whitney",
+      "definition": "an American inventor known for his idea of interchangeable parts in machinery. If one part of a product broke, a whole new one wouldn't have to be made. Also known for inventing the cotton gin",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "eli-whitney.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Entrepreneur",
+      "definition": "a person who starts up and takes on the risk and profits of a business",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "entrepreneur.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ethnic Enclaves",
+      "definition": "groups or neighborhoods of people from the same foreign country",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "ethnic-enclave.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Export Economies",
+      "definition": "colonies that turned into centers of production that focused on sending their raw materials or products elsewhere",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "export-economies.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Factors of Production",
+      "definition": "a favorable combination of the needed factors: land, capital, and labor",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "factors-of-production.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Factory Act of 1802",
+      "definition": "an Act of the Parliament of the United Kingdom designed to improve conditions for those working in cotton mills",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "factory-act-of-1802.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Factory Act of 1833",
+      "definition": "this allowed for the Factory Act of 1802 to be enforced, improved conditions for children working in factories, and extended the law to all textile mills",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "factory-act-of-1833.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Free Enterprise",
+      "definition": "an economic system in which individuals and businesses are allowed to compete for profit with a minimum of government interference",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "free-enterprise.mp3",
+      "sentence": null
+    },
+    {
+      "term": "George Stephenson",
+      "definition": "an English engineer who perfected a steam locomotive that ran on rails",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "george-stephenson.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ghost Dance",
+      "definition": "around 1869, the Northern Paiute Indians thought the dead would return to drive out the white invaders and return lands to Native Americans. The Ghost Dance rituals performed were supposed to help this process",
+      "concepts": [
+        "rel"
+      ],
+      "region": "americas",
+      "audio": "ghost-dance.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Great Famine",
+      "definition": "from 1845 to 1849, the potato crop was destroyed in Ireland causing about 3 million people to emigrate to other nations",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "great-famine.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Henry Ford",
+      "definition": "perfected a system to mass produce cars making them more widely available at lower prices",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "henry-ford.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Humanitarians",
+      "definition": "people who work to improve the conditions of others",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "humanitarians.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Imperialism",
+      "definition": "a policy of extending a country's power and influence through diplomacy or military force",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "imperialism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Indentured Servitude",
+      "definition": "a type of labor (often coerced) in which a person takes out a loan in exchange for agreeing to work without a salary to repay the loan",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "indentured-servitude.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Indian Rebellion of 1857",
+      "definition": "also called the Sepoy Mutiny, a violent uprising against the British in colonial India after the British began using cow and pig fat to grease their rifle cartridges. The rebellion was squashed but it sparked the beginning of Indian nationalism",
+      "concepts": [
+        "gov"
+      ],
+      "region": "ssasia",
+      "audio": "indian-rebellion-of-1857.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Indian Removal Act of 1830",
+      "definition": "Cherokee and other Native Americans from the southeast were forced to relocate to Oklahoma",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "indian-removal-act-of-1830.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Industrial Capitalism",
+      "definition": "an economic and social system in which trade, industry and capital are privately controlled and operated for a profit",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "industrial-capitalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "The Industrial Revolution",
+      "definition": "the transition to new manufacturing processes in Europe and the United States beginning in the 1760s",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "industrial-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Interchangeable Parts",
+      "definition": "all the parts of a machine were alike so a broken part could be replaced rather than having to replace the entire machine",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "interchangeable-parts.mp3",
+      "sentence": null
+    },
+    {
+      "term": "James Watt",
+      "definition": "an inventor best known for his improvements to the steam engine",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "james-watt.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jane Addams",
+      "definition": "1860-1935. She was the founder of the Settlement House Movement and the first American woman to earn the Nobel Peace Prize in 1931 as president of the Women's International League for Peace and Freedom",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "jane-addams.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jan Matzeliger",
+      "definition": "he invented and patented a machine which made footwear that drastically increased the amount of shoes that could be made in a day",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "jan-matzeliger.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jeremy Bentham",
+      "definition": "an English philosopher and founder of utilitarianism; Argued law was useful and therefore good; Believed people should be educated so they could make decisions for themselves",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "jeremy-bentham.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jethro Tull",
+      "definition": "an English agricultural pioneer who created the seed drill to allow seeds to be planted in straight rows making the process of planting faster and more efficient",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "jethro-tull.mp3",
+      "sentence": null
+    },
+    {
+      "term": "John D. Rockefeller",
+      "definition": "an American entrepreneur and founder of the Standard Oil Trust which ended oil competition. He was known for being a ruthless competitor",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "john-d-rockefeller.mp3",
+      "sentence": null
+    },
+    {
+      "term": "John Kay",
+      "definition": "invented the flying shuttle which moved the weft-carrying shuttle quickly across the loom leading to faster cloth production",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "john-kay.mp3",
+      "sentence": null
+    },
+    {
+      "term": "John Stuart Mill",
+      "definition": "believed government should work for the good of all its citizens; Rejected economic systems that left workers in poverty; Called for the government to protect working children and to improve factory conditions; Wrote On the Subjection of Women; Believed government should support education and guarantee individual liberty",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "john-stuart-mill.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Joseph Pulitzer",
+      "definition": "he was a Hungarian immigrant who created the first modern mass -circulated newspaper. His paper included crowd-pleasing features such as color comics. His newspaper, the New York World, became known for its sensational headlines",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "joseph-pulitzer.mp3",
+      "sentence": null
+    },
+    {
+      "term": "J.P. Morgan",
+      "definition": "he gained control of key industries like the railroads and steel. He would buy up stock of companies in trouble, and then run them in a way that eliminated the competition to increase his profit",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "j-p-morgan.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Kangani System",
+      "definition": "a system in Ceylon, Burma, and Malaya in which entire families were recruited to work on plantations",
+      "concepts": [
+        "econ"
+      ],
+      "region": "ssasia",
+      "audio": "kangani-system.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Knights of Labor",
+      "definition": "founded in 1869, this was the first major labor organization in the United States. They organized unskilled and skilled workers, campaigned for an eight hour workday, and aspired to form a cooperative society in which laborers owned the industries in which they worked",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "knights-of-labor.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Laissez-faire Economics",
+      "definition": "government and regulators have minimal involvement in the operations of private businesses",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "laissez-faire-economics.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Manifest Destiny",
+      "definition": "the belief in the 19th century US that American settlers were destined to expand across the continent",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "manifest-destiny.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mark Twain",
+      "definition": "an American writer, humorist, entrepreneur, publisher, and lecturer. He is best known for writing Huckleberry Finn, and he is widely considered the father of American literature",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "mark-twain.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mary Harris Jones",
+      "definition": "labor organizer, known as Mother Jones. She fought for coal workers' rights by speaking in Appalachian mining towns, encouraging them to join unions. She also fought for child labor laws",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "mary-harris-jones.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mass Production",
+      "definition": "manufacturing large quantities of a specific product",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "mass-production.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Matthew Boulton",
+      "definition": "he financed the first factory to manufacture steam engines. The industry adapted the engine to power spinning and weaving machines and steam replaced water as industry's major power source",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "matthew-boulton.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mechanization",
+      "definition": "automatic machinery used to increase production",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "mechanization.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Migration",
+      "definition": "the movement of people to a new area or country in order to find work or better living conditions",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "migration.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Monocultures",
+      "definition": "a lack of agricultural diversity especially in developing nations",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "monocultures.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Monopoly",
+      "definition": "a market in which there are many buyers but only one seller",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "monopoly.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Monroe Doctrine",
+      "definition": "a US policy drafted in 1823 which opposed European colonialism in the Americas",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "monroe-doctrine.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Nationalism",
+      "definition": "identifying with one's own nation and support for its interests, especially to the exclusion or detriment of the interests of other nations",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "nationalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Natal Indian Congress",
+      "definition": "founded by Gandhi, this organization worked to expose discrimination against Indians in South Africa",
+      "concepts": [
+        "gov"
+      ],
+      "region": "africa",
+      "audio": "natal-indian-congress.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Opium War",
+      "definition": "from 1839 to 1842 war waged between the Chinese and British over the Chinese government’s objection to the importation of opium",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "opium-wars.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Patent",
+      "definition": "a document giving someone the sole right to make and sell an invention",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "patent.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Penal Colony",
+      "definition": "a colony established for the purpose of relocating convicts. In 1788, Britain began sending its convicts to Australia",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "penal-colony.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Proclamation of 1763",
+      "definition": "an act from the British that reserved all land from the Appalachian Mountains to the Mississippi River for Native Americans. This was the first instance of a European power granting territorial rights to indigenous people",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "proclamation-of-1763.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Proletariat",
+      "definition": "the working class that Marx thought would be driven into poverty by the capitalists and revolt",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "proletariat.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Realist",
+      "definition": "writers who tried to show life as it really is",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "realism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Richard Arkwright",
+      "definition": "he invented a new way to drive machines by waterpower; Began the modern factory system of production",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "richard-arkwright.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Robert Fulton",
+      "definition": "the first to build a profitable steamboat",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "robert-fulton.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Samuel Morse",
+      "definition": "used the work of Volta and Ampere to invent the telegraph and Morse code to make a practical communication device",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "samuel-morse.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Samuel Gompers",
+      "definition": "the creator of the American Federation of Labor. He provided a stable and unified union for skilled workers. He believed skilled workers were hard to replace because they have to be trained. It barred African Americans, unskilled workers, and immigrants",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "samuel-gompers.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Spanish-American War",
+      "definition": "the US victory in 1898 that brought Guam, Cuba, Puerto Rico, and the Philippines under the control of the US",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "spanish-american-war.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Social Darwinism",
+      "definition": "the belief that only the fittest survive in human political and economic struggle. Used to justify racist beliefs",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "social-darwinism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Socialism",
+      "definition": "a political and economic system in which the government owns the means of production and operates them for the benefit of all the people",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "socialism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Steerage",
+      "definition": "a large open area beneath a ship's deck that was used for storing cargo but later became an area for low cost and low class travel",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "steerage.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Tariffs",
+      "definition": "taxes on imported goods",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "tariffs.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ten Hours Act of 1847",
+      "definition": "this set a 10 hour working day for women and for children younger than 18. Since this included most workers, factory owners extended this to everyone",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "ten-hours-act-of-1847.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Thomas Newcomen",
+      "definition": "an English inventor who created the atmospheric engine which was the first practical fuel burning machine",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "thomas-newcomen.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Tenements",
+      "definition": "overcrowded housing with poor conditions such as polluted air, lack of clean water, crime, fires, and diseases",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "tenements.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Thomas Malthus",
+      "definition": "an English economist who wrote Essay on the Principle of Population; He theorized that population growth would outrun the food supply without limits imposed upon reproduction",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "thomas-malthus.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Trail of Tears",
+      "definition": "the route of forced relocations of Native Americans between 1830 and 1850. The walk was over 5,000 miles long, and over 100,000 Native Americans were forcibly removed from their homelands",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "trail-of-tears.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Treaty of Nanking",
+      "definition": "after the Opium War, this treaty required China to open ports to foreigners, give Hong Kong to Britain, allow the trade of opium, and pay damages",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "treaty-of-nanking.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Urbanization",
+      "definition": "movement of people from rural areas to cities with rapidly growing populations",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "urbanization.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Utopian Socialist",
+      "definition": "early socialists who believed that people could live together in small cooperative settlements where everyone could work together for the common good and they would collectively own all means of production and share in the production. They worked out plans for towns modeled after Thomas Moore's Utopia",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "utopian-socialism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "White Australia Policy",
+      "definition": "legislation of the new Commonwealth of Australia that effectively stopped all non-European immigration into the country and that contributed to the development of a racially insulated white society",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "white-australia-policy.mp3",
+      "sentence": null
+    },
+    {
+      "term": "White Man’s Burden",
+      "definition": "white Europeans claimed responsibility for caring for and civilizing natives of their respective colonies",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "white-man-s-burden.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Wilbur and Orville Wright",
+      "definition": "the first to build and fly an airplane at Kitty Hawk, North Carolina on December 7, 1903",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "wilbur-and-orville-wright.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Yellow Journalism",
+      "definition": "journalism that exploits, distorts, or exaggerates the news to create sensationalism and attract readers",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "yellow-journalism.mp3",
+      "sentence": null
+    }
+  ]
+}

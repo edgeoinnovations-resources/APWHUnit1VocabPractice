@@ -1,0 +1,1073 @@
+{
+  "id": "unit7",
+  "title": "Unit 7: Global Conflict",
+  "subtitle": "1900–present",
+  "concepts": {
+    "rel": "Religions & Belief Systems",
+    "gov": "Government & Political Organization",
+    "soc": "Social Structure & Hierarchy",
+    "econ": "Economy, Trade & Technology",
+    "states": "States & Empires",
+    "people": "People & Key Figures"
+  },
+  "regions": {
+    "eastasia": "East Asia",
+    "islam": "Dar al-Islam",
+    "ssasia": "South & Southeast Asia",
+    "americas": "The Americas",
+    "africa": "Africa",
+    "europe": "Europe"
+  },
+  "terms": [
+    {
+      "term": "Anti-Semitism",
+      "definition": "prejudice against Jews",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "anti-semitism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Appeasement",
+      "definition": "the idea that Britain could pacify Germany and make sure there was no war at any cost",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "appeasement.mp3",
+      "sentence": null
+    },
+    {
+      "term": "ANZAC",
+      "definition": "Australian and New Zealand Army Corps; fought in a year-long bloody campaign at Gallipoli in northwestern Turkey that resulted in huge losses and little progress",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "anzac.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Archduke Franz Ferdinand",
+      "definition": "heir apparent to the Austro-Hungarian throne whose assassination in Sarajevo set in motion the events that started World War I",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "archduke-franz-ferdinand.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Atlantic Charter",
+      "definition": "policy statement forged in 1941 by Britain and the US which set down goals for the post-war world",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "atlantic-charter.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Axis Powers",
+      "definition": "alliances between Germany, Italy, and Japan",
+      "concepts": [
+        "states"
+      ],
+      "region": null,
+      "audio": "axis-powers.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Balfour Declaration",
+      "definition": "British document that promised land in Palestine as homeland for Jews in exchange for help in World War I",
+      "concepts": [
+        "gov"
+      ],
+      "region": "islam",
+      "audio": "balfour-declaration.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Battle of Britain",
+      "definition": "an aerial battle fought in World War II in 1940 between the German Luftwaffe (air force), which carried out extensive bombing in Britain, and the British Royal Air Force, which offered successful resistance",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "battle-of-britain.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Battle of Midway",
+      "definition": "U.S. naval victory over the Japanese fleet in June 1942, in which the Japanese lost four of their best aircraft carriers; marked a turning point in World War II",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "battle-of-midway.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Battle of Stalingrad",
+      "definition": "unsuccessful German attack on the city of Stalingrad during World War II from 1942 to 1943, that was the furthest extent of German advance into the Soviet Union",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "battle-of-stalingrad.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Benito Mussolini",
+      "definition": "Fascist dictator of Italy (1922-1943). He led Italy to conquer Ethiopia (1935), joined Germany in the Axis pact (1936), and allied Italy with Germany in World War II. He was overthrown in 1943 when the Allies invaded Italy",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "benito-mussolini.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Black Hand",
+      "definition": "Serbian nationalist/terrorist group responsible for the assassination of Austrian Archduke Franz Ferdinand which resulted in the start of World War I",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "black-hand.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Blackshirts",
+      "definition": "members of Italian fascists before WWII led by Mussolini which solidify Mussolini's control",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "blackshirts.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Blitzkrieg",
+      "definition": "\"Lightning war\", type of fast-moving warfare used by German forces against Poland in 1939",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "blitzkrieg.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bolshevik Revolution",
+      "definition": "the overthrow of Russia's Provisional Government in the fall of 1917 by Lenin and his Bolshevik forces, made possible by the government's continuing defeat in the war, its failure to bring political reform, and a further decline in the conditions of everyday life",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "bolshevik-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Central Powers",
+      "definition": "Germany, Austria-Hungary, Bulgaria, and Ottoman Empire",
+      "concepts": [
+        "states"
+      ],
+      "region": null,
+      "audio": "central-powers.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Chiang Kai-shek",
+      "definition": "took control of the Nationalist party in 1925 and initiated the Chinese Civil War when he attacked Mao’s forces",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "chiang-kai-shek.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Conscription",
+      "definition": "a compulsory military enlistment",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "conscription.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Corporatism",
+      "definition": "a theory based on the idea that the sectors of the economy, including employers, trade unions, and state officials, are seen as separate parts of the same entity",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "corporatism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "D-Day",
+      "definition": "June 6, 1944 - Eisenhower led over a million troops and stormed the beaches at Normandy and began the process of re-taking France; this was a turning point of World War II",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "d-day.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Deficit Spending",
+      "definition": "spending more than the government takes in; used to spur economic recovery",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "deficit-spending.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Destroyers-for-Bases Agreement",
+      "definition": "an agreement in which the US promised to deliver 50 destroyers in exchange for eight British air and naval bases in the Western hemisphere",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "destroyers-for-bases-agreement.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Emiliano Zapata",
+      "definition": "Mexican revolutionary, champion of agrarianism, who fought in guerrilla actions during and after the Mexican Revolution",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "emiliano-zapata.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Fascism",
+      "definition": "a system of government characterized by strict social and economic control and a strong, centralized government usually headed by a dictator; first found in Italy by Mussolini",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "fascism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Final Solution",
+      "definition": "the Nazi program of exterminating Jews under Hitler that was decided at the Berlin conference",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "final-solution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Fourteen Points",
+      "definition": "Woodrow Wilson’s plan to establish lasting peace after World War I",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "fourteen-points.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Francisco “Pancho” Villa",
+      "definition": "Mexican revolutionary and military commander in Northern Mexico during the Mexican Revolution; succeeded along with Emiliano Zapata in removing Diaz from power in 1911",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "francisco-pancho-villa.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Gavrilo Princip",
+      "definition": "the assassin of Archduke Francis Ferdinand of Austria, a member of the Black Hand",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "gavrilo-princip.mp3",
+      "sentence": null
+    },
+    {
+      "term": "German-Soviet Nonaggression Pact",
+      "definition": "pledge made on August 23, 1939 between the Germans and Soviets to not attack each other",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "german-soviet-non-aggression-pact.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Good Neighbor Policy",
+      "definition": "FDR's foreign policy of promoting better relations with Latin America by using economic influence rather than military force in the region",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "good-neighbor-policy.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Great Depression",
+      "definition": "a severe, world wide economic crisis which lasted from the end of 1929 to the outbreak of World War II",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "great-depression.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Great War",
+      "definition": "another name for World War I because of the immense, unprecedented scale of fighting",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "great-war.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Gulags",
+      "definition": "labor camps under Stalin where many people died; political opponents of Stalin were often sent to these labor camps",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "gulags.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Guernica",
+      "definition": "a town in northern Spain that was the target of German and Italian bombing during the Spanish Civil War which targeted civilians",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "guernica.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Heinrich Himmler",
+      "definition": "leader of the Nazi special police (SS) who oversaw the forced removal of Gypsies from their homes",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "heinrich-himmler.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Holocaust",
+      "definition": "the Nazi program of exterminating Jews under Hitler",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "holocaust.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Hypernationalism",
+      "definition": "a belief in the superiority of one’s nation over all others and the single-minded promotion of national interests",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "hyper-nationalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Inflation",
+      "definition": "a general rise in prices; the printing of money after World War I in Germany caused the value of their money to decrease drastically",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "inflation.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Institutional Revolutionary Party",
+      "definition": "PRI; the political party that dominated Mexico for most of the time since its founding in 1929",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "institutional-revolutionary-party.mp3",
+      "sentence": null
+    },
+    {
+      "term": "John Maynard Keynes",
+      "definition": "British economist who argued that for a nation to recovery fully from a depression, the govt had to spend money to encourage investment and consumption",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "john-maynard-keynes.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Kolkhoz",
+      "definition": "collectives organized by Stalin; a group of peasants joined together to farm a certain portion of land",
+      "concepts": [
+        "econ"
+      ],
+      "region": "europe",
+      "audio": "kolkhoz.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Kristallnacht",
+      "definition": "(Night of the Broken Glass) November 9, 1938, when mobs throughout Germany destroyed Jewish property and terrorized Jews",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "kristallnacht.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Kuomintang",
+      "definition": "the Chinese Nationalist party led by Sun Yat-sen",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "kuomintang.mp3",
+      "sentence": null
+    },
+    {
+      "term": "League of Nations",
+      "definition": "international organization founded in 1919 to promote world peace and cooperation but greatly weakened by the refusal of the United States to join; proved ineffectual in stopping aggression by Italy, Japan, and Germany in the 1930s",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "league-of-nations.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Lebensraum",
+      "definition": "Hitler's expansionist theory based on a drive to acquire \"living space\" for the German people",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "lebensraum.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Long March",
+      "definition": "the year-long, 6,000 mile retreat of Mao’s forces into northern China after being attacked by Chiang Kai-shek’s forces in 1934",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "long-march.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Lost Generation",
+      "definition": "a term used to describe those suffering from the shock of World War I",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "lost-generation.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Luftwaffe",
+      "definition": "Germany’s air force",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "luftwaffe.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Machine Guns",
+      "definition": "guns developed in the late 1800s that could fire over 500 rounds a minute; they made it difficult for any side to gain territory in battle",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "machine-guns.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Manchuria",
+      "definition": "with a base in Korea, the Japanese moved into Manchuria and pushed out the Russians, Manchuria proved to be an invaluable foothold in China",
+      "concepts": [
+        "states"
+      ],
+      "region": "eastasia",
+      "audio": "manchuria.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mandate System",
+      "definition": "a system established through the League of Nations that allowed for the Allies to rule the colonies and territories of the Central Powers",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "mandate-system.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mao Zedong",
+      "definition": "leader of the Chinese Communist party and founder of the People’s Republic of China in 1949",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "mao-zedong.mp3",
+      "sentence": null
+    },
+    {
+      "term": "March First Movement",
+      "definition": "a series of protests for Korean national independence from Japan that began on March 1, 1919",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "march-1st-movement.mp3",
+      "sentence": null
+    },
+    {
+      "term": "May Fourth Movement",
+      "definition": "anti-Japanese demonstrations held by Chinese intellectuals and workers beginning on May 4, 1919",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "may-4th-movement.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mexican Revolution",
+      "definition": "a war from 1911 to 1920 in which Mexican reformers from the middle class joined with workers and peasants to overthrow the dictator Porfirio Diaz",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "mexican-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Militarism",
+      "definition": "aggressive military preparedness that celebrates war and the armed forces",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "militarism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mohandas Gandhi",
+      "definition": "leader of the Indian independence movement and advocate of nonviolent resistance",
+      "concepts": [
+        "people"
+      ],
+      "region": "ssasia",
+      "audio": "mohandas-gandhi.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Munich Conference",
+      "definition": "1938 conference at which European leaders attempted to appease Hitler by turning over the Sudetenland to him in exchange for promise that Germany would not expand Germany's territory any further",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "munich-conference.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mustafa Kemal",
+      "definition": "Turkish army officer, revolutionary, and the first President of Turkey",
+      "concepts": [
+        "people"
+      ],
+      "region": "islam",
+      "audio": "mustafa-kemal.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Nationalism",
+      "definition": "political ideology that stresses people's membership in a nation-a community defined by a common culture and history as well as by territory",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "nationalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Nazis",
+      "definition": "German political party joined by Adolf Hitler, emphasizing nationalism, racism, and war. When Hitler became chancellor of Germany in 1933, the Nazi Party became the only legal party and an instrument of Hitler's absolute rule",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "nazis.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Neville Chamberlain",
+      "definition": "Prime Minister of Great Britain from 1940 who was famous for appeasing Hitler at the Munich Conference",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "neville-chamberlain.mp3",
+      "sentence": null
+    },
+    {
+      "term": "New Deal",
+      "definition": "the name of President Roosevelt's program for bringing the United States out of the depression",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "new-deal.mp3",
+      "sentence": null
+    },
+    {
+      "term": "New Economic Plan",
+      "definition": "policy proclaimed by Vladimir Lenin in 1924 to encourage the revival of the Soviet economy by allowing small private enterprises. Joseph Stalin ended the N.E.P. in 1928 and replaced it with a series of Five-Year Plans",
+      "concepts": [
+        "econ"
+      ],
+      "region": "europe",
+      "audio": "new-economic-plan.mp3",
+      "sentence": null
+    },
+    {
+      "term": "No Man's Land",
+      "definition": "a strip of land between the trenches of opposing armies along the Western Front during World War I",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "no-man-s-land.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Nuremberg Laws",
+      "definition": "placed severe restrictions of Jews, prohibited from marrying non- Jews, attending schools or universities, holding government jobs, practicing law or medicine or publishing books",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "nuremberg-laws.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Omar al-Bashir",
+      "definition": "autocratic leader of Sudan since 1989 who was accused of genocide and participated in agreement for a South Sudan",
+      "concepts": [
+        "people"
+      ],
+      "region": "africa",
+      "audio": "omar-al-bashir.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Pan-Arabism",
+      "definition": "an ideology that called for the unification of all lands in North Africa and the Middle East",
+      "concepts": [
+        "gov"
+      ],
+      "region": "islam",
+      "audio": "pan-arabism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Paris Peace Conference",
+      "definition": "organized by the victors of WWI to negotiate the peace treaties between the Allied and Central Powers",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "paris-peace-conference.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Pearl Harbor",
+      "definition": "the surprise air attack by the Japanese on the US naval base in Hawaii on December 7, 1941",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "pearl-harbor.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Porfirio Diaz",
+      "definition": "was elected president of Mexico in 1876 and dominated Mexican politics for 35 years while imposing a strong central government",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "porfirio-diaz.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Propaganda",
+      "definition": "ideas spread to influence public opinion for or against a cause",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "propaganda.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Rape of Nanjing",
+      "definition": "a six-week period following the Japanese capture of the Chinese city of Nanjing. During this period, hundreds of thousands of civilians were murdered and 20,000-80,000 women were raped by soldiers of the Imperial Japanese Army",
+      "concepts": [
+        "soc"
+      ],
+      "region": "eastasia",
+      "audio": "rape-of-nanjing.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ration",
+      "definition": "restrict the consumption of a relatively scarce commodity, as during war",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "ration.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Red Terror",
+      "definition": "officially began in September 1918, following attempts on the lives of several Bolshevik leaders, including Lenin. Government decrees gave the Cheka almost unlimited authority and set up forced labor camps to incarcerate those considered enemies",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "red-terror.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Reparations",
+      "definition": "as part of the Treaty of Versailles, Germany was ordered to pay fines to the Allies to repay the costs of the war. Opposed by the U.S., it quickly led to a severe depression in Germany",
+      "concepts": [
+        "econ"
+      ],
+      "region": "europe",
+      "audio": "reparations.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Russian Civil War",
+      "definition": "1918-1921 Russians, Ukrainians, and others revolted against the Russian government because of widespread starvation after World War I",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "russian-civil-war.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Rwanda",
+      "definition": "site of one of the worst genocides in modern history; caused by racial divisions under Belgian control of Rwanda",
+      "concepts": [
+        "soc"
+      ],
+      "region": "africa",
+      "audio": "rwanda.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Salt March",
+      "definition": "organized by Mohandas Gandhi where many Indians protested the British tax on salt by marching to the sea to make their own salt",
+      "concepts": [
+        "soc"
+      ],
+      "region": "ssasia",
+      "audio": "salt-march.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Schlieffen Plan",
+      "definition": "plan by Germany to take France quickly before Russia could mobilize by violating Belgian neutrality; made Britain enter the war",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "schlieffen-plan.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Self-determination",
+      "definition": "the idea that peoples of the same ethnicity, language, culture, and political ideals should be united and should have the right to form an independent nation-state",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "self-determination.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Secret Alliances",
+      "definition": "European nations agreed in secret to protect and help one another when attacked",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "secret-alliances.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Siege of Leningrad",
+      "definition": "a three-year siege by the Germans in which the Soviet Union defended the city of Leningrad and the Germans were unsuccessful",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "siege-of-leningrad.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Spanish Civil War",
+      "definition": "military revolt from 1936 to 1939 against the Republican government of Spain, supported by conservative elements within the country",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "spanish-civil-war.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Sudetenland",
+      "definition": "the area near Czechoslovakia that was mainly German ethnicity that Germany took",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "sudetenland.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Sun Yat-sen",
+      "definition": "he led the first republic in China after the overthrow of the Qing Dynasty",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "sun-yat-sen.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Third Reich",
+      "definition": "Hitler's name for the new order he established in 1933",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "third-reich.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Total War",
+      "definition": "committing all resources to the war effort",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "total-war.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Totalitarian State",
+      "definition": "a state in which the government controls every aspect of society",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "totalitarian-state.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Treaty of Versailles",
+      "definition": "the treaty imposed on Germany by the Allied powers in 1920 after the end of World War I which demanded exorbitant reparations from the Germans",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "treaty-of-versailles.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Trench Warfare",
+      "definition": "long ditches dug in the ground with the excavated earth banked in front in order to defend against enemy fire",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "trench-warfare.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Tripartite Pact",
+      "definition": "signed between the Axis powers in 1940 (Italy, Germany and Japan) where they pledged to help the others in the event of an attack by the US",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "tripartite-pact.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Triple Alliance",
+      "definition": "Germany, Austria-Hungary, and Italy in alliance before the start of World War I",
+      "concepts": [
+        "states"
+      ],
+      "region": null,
+      "audio": "triple-alliance.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Triple Entente",
+      "definition": "the alliance between Britain, France, and Russia in which all three viewed Germany as a rival; later became known as the Allies",
+      "concepts": [
+        "states"
+      ],
+      "region": null,
+      "audio": "triple-entente.mp3",
+      "sentence": null
+    },
+    {
+      "term": "United Nations",
+      "definition": "international organization founded in 1945 to promote world peace and cooperation. It replaced the League of Nations",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "united-nations.mp3",
+      "sentence": null
+    },
+    {
+      "term": "US Stock Market Crash",
+      "definition": "the 1929 crash that triggered the collapse into the Great Depression",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "u-s-stock-market-crash.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Vladimir Lenin",
+      "definition": "founder of the Russian (Bolshevik) Communist Party, this man led the November Revolution in 1917 which established a revolutionary soviet government based on a union of workers, peasants, and soldiers",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "vladimir-lenin.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Wannsee Conference",
+      "definition": "1942 conference in Germany concerning the plan to murder European Jews",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "wannsee-conference.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Weimar Republic",
+      "definition": "democratic government founded in 1919 in Germany following Kaiser Wilhelm II's abdication near the end of War World I",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "weimar-republic.mp3",
+      "sentence": null
+    },
+    {
+      "term": "War of Attrition",
+      "definition": "a war based on wearing the other side down by constant attacks and heavy losses",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "war-of-attrition.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Winston Churchill",
+      "definition": "he was the British prime minister during World War II and resisted German attacks",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "winston-churchill.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Woodrow Wilson",
+      "definition": "after World War I, this United States president sought to reduce the risk of war by writing the Fourteen Points that influenced the creation of the League of Nations",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "woodrow-wilson.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Young Turks",
+      "definition": "group of reformers that advocated for a constitution like the European states and for Turkification, an effort to all citizens of the multiethnic empire identify with Turkish culture",
+      "concepts": [
+        "gov"
+      ],
+      "region": "islam",
+      "audio": "young-turks.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Zimmerman Note",
+      "definition": "Written by Arthur Zimmerman, a German foreign secretary; the German government offered to help Mexico reclaim territory lost to the US in 1848 if Mexico allied with Germany in World War I",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "zimmermann-note.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Zionists",
+      "definition": "those who supported a Jewish homeland",
+      "concepts": [
+        "rel"
+      ],
+      "region": null,
+      "audio": "zionists.mp3",
+      "sentence": null
+    }
+  ]
+}

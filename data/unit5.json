@@ -1,0 +1,1023 @@
+{
+  "id": "unit5",
+  "title": "Unit 5: Revolutions",
+  "subtitle": "1750–1900",
+  "concepts": {
+    "rel": "Religions & Belief Systems",
+    "gov": "Government & Political Organization",
+    "soc": "Social Structure & Hierarchy",
+    "econ": "Economy, Trade & Technology",
+    "states": "States & Empires",
+    "people": "People & Key Figures"
+  },
+  "regions": {
+    "eastasia": "East Asia",
+    "islam": "Dar al-Islam",
+    "ssasia": "South & Southeast Asia",
+    "americas": "The Americas",
+    "africa": "Africa",
+    "europe": "Europe"
+  },
+  "terms": [
+    {
+      "term": "Abolitionism",
+      "definition": "the movement to end the Atlantic slave trade and free all enslaved people which gained followers in 18th century",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "abolitionism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Adam Smith",
+      "definition": "one of the most influential thinks of the Enlightenment; wrote Wealth of Nations which responded to mercantilism and called for free trade",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "adam-smith.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Agricultural Revolution",
+      "definition": "the transformation of human existence caused by the deliberate cultivation of particular plants and the deliberate taming and breeding of particular animals",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "agricultural-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Anti-Semitism",
+      "definition": "hostility towards Jews",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "anti-semitism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Automatic Loom",
+      "definition": "allowed clothes to be made at a faster rate and changed bobbins automatically without stopping; Toyoda Loom Works made one and later became Toyota Motor Company",
+      "concepts": [
+        "econ"
+      ],
+      "region": "eastasia",
+      "audio": "automatic-loom.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Baron Montesquieu",
+      "definition": "French philosopher who argued that the best system of government divided the power of government into three parts: legislative, executive, and judicial",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "baron-montesquieu.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bastille",
+      "definition": "a former prison in Paris that symbolized the abuses of the monarchy and the corrupt aristocracy; it was stormed by angry crowds on July 14, 1789",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "bastille.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bessemer Process",
+      "definition": "a more efficient way to produce steel by blasting hot air through melted iron to quickly remove impurities",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "bessemer-process.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bourgeoisie",
+      "definition": "the middle class and investors who owned machinery and factories where workers produced goods",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "bourgeoisie.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bushido",
+      "definition": "the code of conduct of the samurai which was longer condoned by the government after 1871",
+      "concepts": [
+        "soc"
+      ],
+      "region": "eastasia",
+      "audio": "bushido.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Capital",
+      "definition": "money available to invest in business",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "capital.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Capitalism",
+      "definition": "an economic system in which the means of production, such as factories and natural resources, are privately owned and are operated for profit",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "capitalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Cecil Rhodes",
+      "definition": "founder of De Beers Diamonds, he was an especially enthusiastic investor in a railroad project that was to run from Cape Town to Cairo to connect British-held colonies",
+      "concepts": [
+        "people"
+      ],
+      "region": "africa",
+      "audio": "cecil-rhodes.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Charles Fourier",
+      "definition": "utopian socialist that and social critic who worked to establish ideal communities that would point the way to an equitable society",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "charles-fourier.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Charter Oath",
+      "definition": "five point policy issued by Japan's Meiji emperor, which described Japan's plan for modernization calling for democracy, equality of class, rejection of outdated customs, and acceptance of foreign knowledge",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "charter-oath.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Classical Liberalism",
+      "definition": "a belief in natural rights, constitutional government, laissez-faire economics, and reduced spending on armies and established churches",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "classical-liberalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Coaling Stations",
+      "definition": "ports where ships could refuel with coal",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "coaling-stations.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Commodore Matthew Perry",
+      "definition": "US navy commander who, on July 8, 1853, arrived in Japan to demand they open up trade",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "commodore-matthew-perry.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Company Rule",
+      "definition": "British East India Company control over parts of the Indian subcontinent from 1757 to 1858",
+      "concepts": [
+        "gov"
+      ],
+      "region": "ssasia",
+      "audio": "company-rule.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Communism",
+      "definition": "a political system in which the government owns all property and dominates all aspects of life in a country; Marx believed socialism would replace capitalism and communism would replace socialism as the final stage of economic development",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "communism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Conservatism",
+      "definition": "a belief in traditional institutions, favoring reliance on practical experience over ideological theories",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "conservatism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Consumerism",
+      "definition": "the culture or ideology of excessive consumption of material goods or services",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "consumerism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Cottage Industry",
+      "definition": "industry in which merchants provided raw cotton to women who spun it into finished cloth in their own homes",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "cottage-industry.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Crop Rotation",
+      "definition": "rotating different crops in and out of a field each year",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "crop-rotation.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Declaration of Independence",
+      "definition": "the fundamental document establishing the United States as a nation independent of Britain, adopted on July 4, 1776",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "declaration-of-independence.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Declaration of the Rights of Man",
+      "definition": "one of the fundamental documents of the French Revolution, defining a set of individual rights and collective rights of all of the estates as one",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "declaration-of-the-rights-of-man.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Deism",
+      "definition": "the belief that divinity simply set natural laws in motion and does not interfere",
+      "concepts": [
+        "rel"
+      ],
+      "region": null,
+      "audio": "deism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Division of Labor",
+      "definition": "production process in which a worker or group of workers is assigned a specialized task in order to increase efficiency",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "division-of-labor.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Dreyfus Affair",
+      "definition": "a divisive case in which Alfred Dreyfus, a Jewish captain in the French army, was falsely accused and convicted of treason; he was later found innocent and the French government severed all ties between the state and church",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "dreyfus-affair.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Elizabeth Cady Stanton",
+      "definition": "American social activist, abolitionist, and leading figure of the early women's rights movement whose Declaration of Sentiments, presented at the first woman's rights convention held in Seneca Falls, New York, is often credited with initiating the first organized women's rights and women's suffrage movements in the US",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "elizabeth-cady-stanton.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Emperor Guangxu",
+      "definition": "was inspired by the proposals of Kang Youwei and Liang Qichao, embarked on the Hundred Days reforms of 1898",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "emperor-guangxu.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Empress Dowager Cixi",
+      "definition": "imprisoned Emperor Guangxu and reversed his reform edicts; wanted to protect traditional social and government systems in China",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "empress-dowager-cixi.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Empiricism",
+      "definition": "the belief that knowledge comes from sensed experience, from what you observe through your experience, including experiments",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "empiricism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Enlightenment",
+      "definition": "Post-Renaissance period in European history devoted to the study and exploration of new ideas in science, politics, the arts, and philosophy",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "enlightenment.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Fabian Society",
+      "definition": "a group of English socialists, including George Bernard Shaw, Emmeline Pankhurst, Beatrice Webb, and H.G Wells who advocated electoral victories rather than violent revolution to bring about social change",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "fabian-society.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Friedrich Engels",
+      "definition": "wealthy supporter of Karl Marx who contributed to the publication of the Communist Manifesto which summarized their critique of capitalism",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "friedrich-engels.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Genros",
+      "definition": "elder statesman that served the Japanese government; after the dissolving the position of samurai, some samurai took on this position",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "genro.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Guglielmo Marconi",
+      "definition": "an Italian inventor known as the father of radio",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "guglielmo-marconi.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Hatt-i Humayun",
+      "definition": "Ottoman reform Edict that updated the legal system, declared equality for all men in education, government appointments, and justice regardless of religion or ethnicity",
+      "concepts": [
+        "gov"
+      ],
+      "region": "islam",
+      "audio": "hatt-i-humayun.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Henri de Saint-Simon",
+      "definition": "a French social theorist whose thought played a substantial role in influencing politics, economics, sociology, and the philosophy of science; proposed the building of the Suez canal",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "henri-de-saint-simon.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Hong Kong and Shanghai Banking Corporation (HSBC)",
+      "definition": "a prominent bank established and based in Hong Kong since 1865 and focused on finance, corporate investments, and global banking when Hong Kong was a colony of the British Empire",
+      "concepts": [
+        "econ"
+      ],
+      "region": "eastasia",
+      "audio": "hong-kong-and-shanghai-banking-corporation-hsbc.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Human Capital",
+      "definition": "the workforce",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "human-capital.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Hundred Days of Reform",
+      "definition": "sweeping reforms in the late 1800s in China that included the abolition of the civil service exam, elimination of corruption, and the establishment of Western-style industrial, commercial, and medical systems",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "hundred-days-of-reform.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Immigration",
+      "definition": "the movement of people into the country from other countries",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "immigration.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Industrial Revolution",
+      "definition": "new technologies reshaped societies and led to dramatic changes",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "industrial-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Industrialization",
+      "definition": "increased mechanization of production",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "industrialization.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Interchangeable Parts",
+      "definition": "identical machine components that can be substituted one for another",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "interchangeable-parts.mp3",
+      "sentence": null
+    },
+    {
+      "term": "James Watt",
+      "definition": "made a version of the steam engine in 1765 that provided an inexpensive way to harness coal power to create steam which generated energy",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "james-watt.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jean-Jacques Rousseau",
+      "definition": "Genevan philosopher and writer whose political philosophy influenced the French Revolution as well as the overall development of modern political, sociological, and educational thought",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "jean-jacques-rousseau.mp3",
+      "sentence": null
+    },
+    {
+      "term": "John Locke",
+      "definition": "philosopher who wrote two Treatises of Government and supported the idea of the social contract",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "john-locke.mp3",
+      "sentence": null
+    },
+    {
+      "term": "John Stuart Mill",
+      "definition": "British philosopher who championed legal reforms to allow labor unions, limit child labor, and ensure safe working conditions in factories",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "john-stuart-mill.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Karl Marx",
+      "definition": "German scholar and writer who argued for socialism; published the Communist Manifesto",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "karl-marx.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Labor Unions",
+      "definition": "organizations of workers that advocate for the right to bargain with employers and put resulting agreements in a contract",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "labor-unions.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Laissez-faire",
+      "definition": "French for “leave alone,” an economic environment in which transactions between private parties are free from tariffs, government subsidies, and enforced monopolies, with only enough government regulations sufficient to protect property rights against theft and aggression",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "laissez-faire.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Limited-Liability Corporations (LLCs)",
+      "definition": "a business organization in which the owners have limited personal legal responsibility for debts and actions of the business",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "limited-liability-corporations-llcs.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Lola Rodriguez de Tio",
+      "definition": "Puerto Rican-born poet and prominent early advocate for Puerto Rican independence",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "lola-rodriguez-de-tio.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mahmud II",
+      "definition": "Sultan of the Ottoman Empire from 1808 until his death in 1839 whose reforms helped to consolidate the Ottoman Empire despite defeats in wars and losses of territory",
+      "concepts": [
+        "people"
+      ],
+      "region": "islam",
+      "audio": "mahmud-ii.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mary Wollstonecraft",
+      "definition": "English writer who published A Vindication of the Rights of Women in 1792 that argues that women should receive the same education as men",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "mary-wollstonecraft.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Means of Production",
+      "definition": "machines, factories, mines, and land needed to produce goods",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "means-of-production.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Meiji Restoration",
+      "definition": "the dissolution of Japan's feudal system of government and the restoration of the imperial system that led to Japan modernizing and industrializing",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "meiji-restoration.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Nationalism",
+      "definition": "a feeling of intense loyalty to others who share one's language and culture",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "nationalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "New Zealand Wars",
+      "definition": "military confrontations between the Māori and British over who had rights to the land which eventually ended in European colonization of New Zealand",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "new-zealand-wars.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mamluks",
+      "definition": "former Turkish slaves who formed a military class",
+      "concepts": [
+        "soc"
+      ],
+      "region": "islam",
+      "audio": "mamluks.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mass Production",
+      "definition": "the manufacture of many identical products by the division of labor into many small repetitive tasks which made goods cheaper, more abundant, and more easily accessible",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "mass-production.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Monopoly",
+      "definition": "control of a specific business and elimination of all competition",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "monopoly.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Muhammed Ali",
+      "definition": "Albanian Ottoman officer who was selected to be the new governor of Egypt; reformed Egypt and pushed it to industrialize",
+      "concepts": [
+        "people"
+      ],
+      "region": "africa",
+      "audio": "muhammad-ali.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ottomanism",
+      "definition": "movement in the 1870s and 1880s that aimed to create a more more modern, unified state by minimizing ethnic, linguistic, and religious differences across the empire",
+      "concepts": [
+        "gov"
+      ],
+      "region": "islam",
+      "audio": "ottomanism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Otto von Bismarck",
+      "definition": "a German statesman who unified numerous German states into a powerful German Empire under Prussian leadership, then created a \"balance of power\" that preserved peace in Europe from 1871 until 1914",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "otto-von-bismarck.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Philosophes",
+      "definition": "a group of thinkers and writer in the 18th century that explored social, political, and economic theories in new ways",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "philosophes.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Proletariat",
+      "definition": "the working class who often worked in factories and mines for little compensation",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "proletariat.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Propaganda Movement",
+      "definition": "1882 movement in the Philippines that involved magazines, pamphlets, and other publications that demanded social and political reforms",
+      "concepts": [
+        "gov"
+      ],
+      "region": "ssasia",
+      "audio": "propaganda-movement.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Raw Materials",
+      "definition": "the basic material from which products are made",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "raw-materials.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Realpolitik",
+      "definition": "system of politics or principles based on practical rather than moral or ideological considerations",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "realpolitik.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Reign of Terror",
+      "definition": "a period during the French Revolution in which the government executed thousands of opponents of the revolution",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "reign-of-terror.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Richard Arkwright",
+      "definition": "patented the water frame which used waterpower to drive the spinning wheel",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "richard-arkwright.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Robert Owen",
+      "definition": "utopian socialist from Great Britain who established intentional communities governed by the principles of utopian socialism in Scotland and Indiana",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "robert-owen.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Second Industrial Revolution",
+      "definition": "key players were the United States, Great Britain, and Germany; developments included steel, chemicals, precision machinery, and electronics",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "second-industrial-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Seed Drill",
+      "definition": "a device that efficiently places seeds in a designated spots in the ground",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "seed-drill.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Self-Strengthening Movement",
+      "definition": "China's program of internal reform in the 1860s and 1870s, based on vigorous application of Confucian principles and limited borrowing from the West",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "self-strengthening-movement.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Simon Bolivar",
+      "definition": "leader of revolt in South American colonies against Spanish rule",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "simon-bolivar.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Slums",
+      "definition": "areas of cities where low-income families were forced to live",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "slums.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Social Contract",
+      "definition": "an agreement between the people and their government signifying their consent to be governed",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "social-contract.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Socialism",
+      "definition": "a system of public or direct worker ownership of the means of production such as the mills to make cloth or the machinery and land needed to mine coal",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "socialism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Stockholders",
+      "definition": "individuals who buy partial ownership directly from the company when it is formed or later through stock market",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "stockholders.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Tabula Rasa",
+      "definition": "the “blank slate” that Locke proposed people were born with that could be filled with knowledge",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "tabula-rasa.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Tanzimat",
+      "definition": "Ottoman reforms during 1839-1876 after Mahmud that addressed corruption, education, laws, and updated the legal system",
+      "concepts": [
+        "gov"
+      ],
+      "region": "islam",
+      "audio": "tanzimat.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Tenement",
+      "definition": "poorly constructed, crowded apartment building that working class families lived in; often owned by factory owners themselves",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "tenements.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Theodor Herzl",
+      "definition": "Austro-Hungarian Jew who led the Zionist movement",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "theodor-herzl.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Thomas Paine",
+      "definition": "defended Deism in his book The Age of Reason",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "thomas-paine.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Toussaint L’Ouverture",
+      "definition": "former slave who led a general rebellion against slavery in the Haitian Revolution and was the first leader of a free Haiti",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "toussaint-louverture.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Transcontinental Railroad",
+      "definition": "railroad which linked the east and west coasts of the United States",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "transcontinental-railroad.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Trans-Siberian Railroad",
+      "definition": "stretched from Moscow to the Pacific Ocean, allowing Russia to trade easily with countries in East Asia",
+      "concepts": [
+        "econ"
+      ],
+      "region": "europe",
+      "audio": "trans-siberian-railroad.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Unilever Corporation",
+      "definition": "a British and Dutch venture that focused on household goods and most notably, soap",
+      "concepts": [
+        "econ"
+      ],
+      "region": "europe",
+      "audio": "unilever-corporation.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Utilitarianism",
+      "definition": "philosophy of John Stuart Mill that sought “the greatest good for the greatest number of people”",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "utilitarianism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Utopian Socialists",
+      "definition": "those who felt that society could be channeled in positive directions by setting up ideal communities",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "utopian-socialists.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Voltaire",
+      "definition": "French Enlightenment writer, historian and philosopher famous for his advocacy of civil liberties, including freedom of religion, free trade and separation of church and state",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "voltaire.mp3",
+      "sentence": null
+    },
+    {
+      "term": "White-collar",
+      "definition": "middle class office workers",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "white-collar.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Working Class",
+      "definition": "those in Britain who labored in factories and mines",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "working-class.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Zaibatsu",
+      "definition": "powerful Japanese family business organizations like the conglomerates in the United States",
+      "concepts": [
+        "econ"
+      ],
+      "region": "eastasia",
+      "audio": "zaibatsu.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Zionism",
+      "definition": "the desire of Jews to reestablish an independent homeland where their ancestors had lived in the Middle East",
+      "concepts": [
+        "rel"
+      ],
+      "region": null,
+      "audio": "zionism.mp3",
+      "sentence": null
+    }
+  ]
+}

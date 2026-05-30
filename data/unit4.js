@@ -1,0 +1,1025 @@
+window.APWH = window.APWH || {};
+window.APWH.unit4 = {
+  "id": "unit4",
+  "title": "Unit 4: Transoceanic Interconnections",
+  "subtitle": "1450–1750",
+  "concepts": {
+    "rel": "Religions & Belief Systems",
+    "gov": "Government & Political Organization",
+    "soc": "Social Structure & Hierarchy",
+    "econ": "Economy, Trade & Technology",
+    "states": "States & Empires",
+    "people": "People & Key Figures"
+  },
+  "regions": {
+    "eastasia": "East Asia",
+    "islam": "Dar al-Islam",
+    "ssasia": "South & Southeast Asia",
+    "americas": "The Americas",
+    "africa": "Africa",
+    "europe": "Europe"
+  },
+  "terms": [
+    {
+      "term": "African Diaspora",
+      "definition": "Africans living outside of Africa (usually as slaves) who retained some aspects of their cultures",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "african-diaspora.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Akbar the Great",
+      "definition": "1556-1605 remembered for his military successes and administrative achievements in the Mughal Empire",
+      "concepts": [
+        "people"
+      ],
+      "region": "ssasia",
+      "audio": "akbar-the-great.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Amur River",
+      "definition": "this river valley was a contested frontier between northern China and eastern Russia until the settlement was arranged in Treaty of Nerchinsk",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "amur-river.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ana Nzinga",
+      "definition": "ruler of Ndongo in south-central Africa that became an ally to Portugal to stop Portuguese slave raids and attacks from other Africans",
+      "concepts": [
+        "people"
+      ],
+      "region": "africa",
+      "audio": "ana-nzinga.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Asante Empire",
+      "definition": "African kingdom on the Gold Coast that expanded rapidly after 1680",
+      "concepts": [
+        "states"
+      ],
+      "region": "africa",
+      "audio": "asante-empire.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ashkenazi Jews",
+      "definition": "Jews from central and eastern Europe",
+      "concepts": [
+        "rel"
+      ],
+      "region": "europe",
+      "audio": "ashkenazi-jews.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Astronomical Chart",
+      "definition": "a map of stars that improved maritime navigation",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "astronomical-chart.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Atlantic Circuit",
+      "definition": "the network of trade routes connecting Europe, Africa, and the Americas that underlay the Atlantic system",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "atlantic-circuit.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Aztec Empire",
+      "definition": "an empire in Mexico that was overthrown by Cortes in 1521",
+      "concepts": [
+        "states"
+      ],
+      "region": "americas",
+      "audio": "aztec-empire.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Barbary Pirates",
+      "definition": "those who plied the seas near North Africa along the Barbary Coast and captured other European slaves in the Mediterranean and then sold them to the sultan or other high-ranking officials",
+      "concepts": [
+        "soc"
+      ],
+      "region": "africa",
+      "audio": "barbary-pirates.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bartolomé de Las Casas",
+      "definition": "(1474-1566) First bishop of Chiapas in southern Mexico who devoted most of his life to protecting Amerindian peoples from exploitation. His major achievement was the New Laws of 1542, which limited the ability of Spanish settlers to compel Amerindians to labor for them",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "bartolome-de-las-casas.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bartholomew Diaz",
+      "definition": "sailed around the Cape of Good Hope in 1488 into unknown waters then returned home for fear of a mutiny",
+      "concepts": [
+        "people"
+      ],
+      "region": "africa",
+      "audio": "bartolomeu-dias.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Bight of Biafra",
+      "definition": "the slave trade expanded into this area in the 18th century. Slaves and tradable goods were collected at fairs in large numbers",
+      "concepts": [
+        "econ"
+      ],
+      "region": "africa",
+      "audio": "bight-of-biafra.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Boyars",
+      "definition": "Russian landholding aristocrats; possessed less political power than their western European counterparts",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "boyars.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Capitalism",
+      "definition": "the economic system of large financial institutions –banks, stock exchanges, investment companies–that first developed in early modern Europe. Commercial capitalism, the trading system of the early modern economy, is often distinguished from industrial capitalism, the system based on machine production",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "capitalism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Carolina Fur Trade",
+      "definition": "(1600's) English fur traders pushed into the interior to compete with French trading networks based in New Orleans and Mobile",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "carolina-fur-trade.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Cartography",
+      "definition": "the art of mapmaking",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "cartography.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Cash Crop",
+      "definition": "sellable crop that is grown and gathered for the market such as sugar and tobacco",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "cash-crop.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Charter Companies",
+      "definition": "groups of private investors who paid an annual fee to France and England in exchange for a monopoly over trade to the West Indies colonies",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "charter-companies.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Chattel Slavery",
+      "definition": "a system where individuals were considered property to be bought and sold",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "chattel-slavery.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Christopher Columbus",
+      "definition": "navigator who explored the Americas under the flag of Spain",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "christopher-columbus.mp3",
+      "sentence": null
+    },
+    {
+      "term": "City of Potosi",
+      "definition": "located in Bolivia it was one of the richest silver mining centers and most populous cities in colonial Spanish America",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "city-of-potosi.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Columbian Exchange",
+      "definition": "the exchange of plants, animals, diseases, and technologies between the Americas and the rest of the world following Columbus's voyages",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "columbian-exchange.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Commercial Revolution",
+      "definition": "transformation to a trade-based economy using gold and silver",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "commercial-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Conquistadors",
+      "definition": "Spanish soldiers who conquered parts of the Americas in the 16th century",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "conquistadors.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Cossack",
+      "definition": "peoples of the Russian Empire who lived outside the farming villages, often as herders, mercenaries, or outlaws. They led the conquest of Siberia in the 16th and 17th centuries",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "cossack.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Creole",
+      "definition": "West African languages mixed with European languages",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "creole.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Criollos",
+      "definition": "those of European ancestry who were born in the Americas",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "criollos.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Dahomey",
+      "definition": "West African kingdom that became strong through its rulers' exploitation of the slave trade and acquisition of firearms",
+      "concepts": [
+        "states"
+      ],
+      "region": "africa",
+      "audio": "dahomey.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Dutch East India Company",
+      "definition": "(1602) A mercantile company chartered by the Dutch to conduct trade missions throughout the East Indies",
+      "concepts": [
+        "econ"
+      ],
+      "region": "ssasia",
+      "audio": "dutch-east-india-company.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Dutch West India Company",
+      "definition": "(1621-1794) Trading company chartered by the Dutch government to conduct its merchants' trade in the Americas and Africa",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "dutch-west-india-company.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Engenhos",
+      "definition": "Portuguese sugar plantations called “engines” because of the amount of sugar they processed. The working conditions were horrible and the labor force suffered greatly",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "engenhos.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Encomienda",
+      "definition": "a grant of authority over a population of Amerindians in the Spanish colonies that provided the grant holder with a supply of cheap labor and periodic payments of goods by the Amerindians. It obliged the grant holder to Christianize the Amerindians",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "encomienda.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ferdinand Magellan",
+      "definition": "Portuguese navigator who led the Spanish expedition of 1519-1522 that was the first to sail around the world",
+      "concepts": [
+        "people"
+      ],
+      "region": null,
+      "audio": "ferdinand-magellan.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Francisco Pizarro",
+      "definition": "Spanish explorer who conquered the Incas in what is now Peru and founded the city of Lima",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "francisco-pizarro.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Galleons",
+      "definition": "Spanish trading ships that made round-trip sailing voyages once or twice per year across the Pacific Ocean",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "galleons.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Glorious Revolution",
+      "definition": "also called the Revolution of 1688, was the overthrow of King James II of England by a union of English Parliamentarians with the Dutch stadtholder William III of Orange-Nassau",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "glorious-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Gloucester County Rebellion",
+      "definition": "first recorded slave revolt in what is now the United States took place in Virginia in 1663",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "gloucester-county-rebellion.mp3",
+      "sentence": null
+    },
+    {
+      "term": "The Great Northern War (1700-1721)",
+      "definition": "war between the Russians and the Swedish. It was long and costly for both sides, but the Russians ended up gaining control of the Baltic Sea",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "the-great-northern-war.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Henry Hudson",
+      "definition": "Dutch explorer that sailed up the Hudson River in search of a northwest passage in 1609",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "henry-hudson.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Henry the Navigator",
+      "definition": "(1394-1460) Prince of Portugal who established an observatory and school of navigation at Sagres and directed voyages that spurred the growth of Portugal's colonial empire.",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "henry-the-navigator.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Hidalgos",
+      "definition": "lesser Spanish nobles of the New World",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "hidalgos.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Hispaniola",
+      "definition": "name Columbus gave to the island that is now Haiti and the Dominican Republic",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "hispaniola.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Indentured Servant",
+      "definition": "a migrant to British colonies in the Americas who paid for passage by agreeing to work for a set term ranging from four to seven years",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "indentured-servants.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Iroquois Confederacy",
+      "definition": "an alliance of five northeastern Amerindian peoples that made decisions on military and diplomatic issues through a council of representatives. Allied first with the Dutch and later with the English, the Confederacy dominated the area from western New England to the Great Lakes",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "iroquois-confederacy.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jacques Cartier",
+      "definition": "French explorer who sailed from the Atlantic Ocean into the St. Lawrence River and claimed part of Canada for France in 1535",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "jacques-cartier.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jamestown",
+      "definition": "English colony in Virginia that was England’s first successful colony in the Americas",
+      "concepts": [
+        "states"
+      ],
+      "region": "americas",
+      "audio": "jamestown.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Japanese Trade Decrees",
+      "definition": "(1633-1639) series of decrees that were designed to keep Christianity from resurfacing, and it sharply curtailed trade with Europe. Europeans entering illegally faced the death penalty and Japanese were required to produce certificates from the Buddhist temples attesting to their loyalty and religious orthodoxy",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "japanese-trade-decrees.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Jesuit Missionaries",
+      "definition": "missionaries from the Society of Jesus, they tried and failed to bring Christianity to Japan, but were successful in reaching the elite and scholars in China",
+      "concepts": [
+        "rel"
+      ],
+      "region": "eastasia",
+      "audio": "jesuit-missionaries.mp3",
+      "sentence": null
+    },
+    {
+      "term": "John Cabot",
+      "definition": "sailed for England in hopes of finding a northwest passage in 1497",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "john-cabot.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Joint-Stock Companies",
+      "definition": "businesses that sold shares to individuals to raise money for its trading enterprises and to spread the risks and profits among many investors",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "joint-stock-companies.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Li Chengdong",
+      "definition": "during the Qing Dynasty he orchestrated three massacres in the city of Jaiding against Han who refused to assimilate to Qing practices",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "li-chengdong.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Manchus",
+      "definition": "Federation of Northeast Asian peoples who founded the Qing Empire",
+      "concepts": [
+        "soc"
+      ],
+      "region": "eastasia",
+      "audio": "manchus.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Manila",
+      "definition": "Spanish commercial center of the Philippines that attracted merchants",
+      "concepts": [
+        "econ"
+      ],
+      "region": "ssasia",
+      "audio": "manila.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Manumission",
+      "definition": "a grant of legal freedom to an individual slave; more common in Brazil, Spanish, and French than in English colonies",
+      "concepts": [
+        "soc"
+      ],
+      "region": null,
+      "audio": "manumission.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Maratha Empire",
+      "definition": "Indian power that existed from 1674 to 1818 and ruled over a large area of the Indian subcontinent; credited with ending Mughal rule in India",
+      "concepts": [
+        "states"
+      ],
+      "region": "ssasia",
+      "audio": "maratha-empire.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Maritime Empires",
+      "definition": "empires such as Spain, Portugal, Great Britain, France, and Holland that were based upon sea travel",
+      "concepts": [
+        "states"
+      ],
+      "region": null,
+      "audio": "maritime-empires.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Maroon Wars",
+      "definition": "enslaved peoples in the Caribbean and former Spanish territories in the Americas fought to gain freedom",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "maroon-wars.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Matteo Ricci",
+      "definition": "a Jesuit missionary who was an expert in the Chinese language and an accomplished scholar of the Confucian classics",
+      "concepts": [
+        "people"
+      ],
+      "region": "eastasia",
+      "audio": "matteo-ricci.mp3",
+      "sentence": null
+    },
+    {
+      "term": "McCartney Missions",
+      "definition": "(1792-1793) the unsuccessful attempt by the British Empire to establish diplomatic relations with the Qing Empire",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "macartney-missions.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mercantilism",
+      "definition": "European government policies of the sixteenth, seventeenth, and eighteenth centuries designed to promote overseas trade between a country and its colonies and accumulate precious metals by requiring colonies to trade only with their motherland country",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "mercantilism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mestizos",
+      "definition": "the term used by Spanish authorities to describe someone of mixed Amerindian and European descent",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "mestizos.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Metacom’s War",
+      "definition": "also called King Philip’s war, English colonists used underhanded tactics to control Native American lands",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "metacom-s-war.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Middle Passage",
+      "definition": "the part of the Atlantic Circuit involving the transportation of enslaved Africans across the Atlantic to the Americas",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "middle-passage.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Ming Dynasty",
+      "definition": "(1368-1644) Empire based in China that Zhu Yuanzhang established after the overthrow of the Yuan Empire. The Ming emperor Yongle sponsored the building of the Forbidden City and the voyages of Zheng He. The later years of the Ming saw a slowdown in technological development and economic decline",
+      "concepts": [
+        "states"
+      ],
+      "region": "eastasia",
+      "audio": "ming-dynasty.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mit’a System",
+      "definition": "labor obligation in Peru that required a percentage of the adult male Amerindians to work for two to four months each year in mines, farms, or textile factories",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "mita-system.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Monopolies",
+      "definition": "granted certain merchants or the government itself the exclusive right to trade",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "monopolies.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Mulatto",
+      "definition": "the term used in Spanish and Portuguese colonies to describe someone of mixed African and European descent",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "mulatto.mp3",
+      "sentence": null
+    },
+    {
+      "term": "New Amsterdam",
+      "definition": "Dutch settlement in the Hudson River Valley that is present day New York city",
+      "concepts": [
+        "states"
+      ],
+      "region": "americas",
+      "audio": "new-amsterdam.mp3",
+      "sentence": null
+    },
+    {
+      "term": "New France",
+      "definition": "French colony in North America along the St. Lawrence River",
+      "concepts": [
+        "states"
+      ],
+      "region": "americas",
+      "audio": "new-france.mp3",
+      "sentence": null
+    },
+    {
+      "term": "New Spain",
+      "definition": "colony established by Cortes after overthrowing the Aztecs in Mexico",
+      "concepts": [
+        "states"
+      ],
+      "region": "americas",
+      "audio": "new-spain.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Northwest Passage",
+      "definition": "a route through or around North America that would lead to East Asia and the trade there",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "northwest-passage.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Omani-European Rivalry",
+      "definition": "a trade rivalry between traders from Oman and European traders over the Indian Ocean Trade Route that fueled Columbus’s search for a new route to India",
+      "concepts": [
+        "econ"
+      ],
+      "region": "islam",
+      "audio": "omani-european-rivalry.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Oyo",
+      "definition": "African empire that became rich by selling its captives to Europeans",
+      "concepts": [
+        "states"
+      ],
+      "region": "africa",
+      "audio": "oyo.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Peninsulares",
+      "definition": "those who were born on the Iberian peninsula and stood at the top of the social pyramid in Latin America",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "peninsulares.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Plantations",
+      "definition": "the labor intensive agricultural centers of the new world which were implemented by Spain, Britain, and Portugal",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "plantations.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Plantocracy",
+      "definition": "in the West Indian colonies, the rich men who owned most of the slaves and most of the land, especially in the 18th century",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "plantocracy.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Port of Luanda",
+      "definition": "founded by the Portuguese in 1575, became the center of the slave trade in Brazil",
+      "concepts": [
+        "econ"
+      ],
+      "region": "africa",
+      "audio": "port-of-luanda.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Price Revolution",
+      "definition": "the high rate of inflation in the 16th and 17th centuries",
+      "concepts": [
+        "econ"
+      ],
+      "region": "europe",
+      "audio": "price-revolution.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Primogeniture Laws",
+      "definition": "law in Europe that required estates to be passed down to the eldest son",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "primogeniture-laws.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Pueblo Revolt",
+      "definition": "revolt in 1860 of the Pueblo and Apache against the Spanish which temporarily drove the Spanish out of the area that is now New Mexico",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "pueblo-revolt.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Puritans",
+      "definition": "English Protestant dissenters who believed that God predestined souls to heaven or hell before birth. They founded Massachusetts Bay Colony in 1629",
+      "concepts": [
+        "rel"
+      ],
+      "region": "americas",
+      "audio": "puritans.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Quebec",
+      "definition": "French trading post established in 1608",
+      "concepts": [
+        "states"
+      ],
+      "region": "americas",
+      "audio": "quebec.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Royal African Company",
+      "definition": "a trading company chartered by the English government in 1672 to conduct its merchants' trade on the Atlantic coast of Africa",
+      "concepts": [
+        "econ"
+      ],
+      "region": "africa",
+      "audio": "royal-african-company.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Russian Serfdom",
+      "definition": "in Russia they worked has artisans and laborers in factories they were essentially slaves. Its practice was not abolished until 1861",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "russian-serfdom.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Samuel de Champlain",
+      "definition": "French navigator known as “The Father of New France” who founded New France and Quebec City",
+      "concepts": [
+        "people"
+      ],
+      "region": "americas",
+      "audio": "samuel-de-champlain.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Sea Beggars",
+      "definition": "Dutch pirates that used gunpowder in their endeavors",
+      "concepts": [
+        "soc"
+      ],
+      "region": "europe",
+      "audio": "sea-beggars.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Sephardic Jews",
+      "definition": "Jews who trace their heritage back to Spain",
+      "concepts": [
+        "rel"
+      ],
+      "region": "europe",
+      "audio": "sephardic-jews.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Smallpox",
+      "definition": "disease brought to the Americas by way of Europeans that was deadly to the native populations",
+      "concepts": [
+        "econ"
+      ],
+      "region": "americas",
+      "audio": "smallpox.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Syncretism",
+      "definition": "the combining of different religious practices and beliefs",
+      "concepts": [
+        "rel"
+      ],
+      "region": null,
+      "audio": "syncretism.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Time of Troubles",
+      "definition": "the time in the early 17th century when Swedish and Polish forces occupied Moscow; it marked the end of the Muscovite Rulers",
+      "concepts": [
+        "gov"
+      ],
+      "region": "europe",
+      "audio": "time-of-troubles.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Trading Post Empire",
+      "definition": "empire based on small outposts rather than control of large territories",
+      "concepts": [
+        "states"
+      ],
+      "region": null,
+      "audio": "trading-post-empire.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Transatlantic Slave Trade",
+      "definition": "Africans captured and sold in the Americas as slaves",
+      "concepts": [
+        "econ",
+        "soc"
+      ],
+      "region": null,
+      "audio": "transatlantic-slave-trade.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Treaty of Nerchinsk",
+      "definition": "a peace settlement between Russia and the Manchu Chinese empire in 1689 gave the lands of the upper Amur to China",
+      "concepts": [
+        "gov"
+      ],
+      "region": "eastasia",
+      "audio": "treaty-of-nerchinsk.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Treaty of Tordesillas",
+      "definition": "1494 treaty in which Spain and Portugal divided the Americas between them",
+      "concepts": [
+        "gov"
+      ],
+      "region": null,
+      "audio": "treaty-of-tordesillas.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Triangular Trade",
+      "definition": "Atlantic trading system that had three segments which enslaved Africans were part of",
+      "concepts": [
+        "econ"
+      ],
+      "region": null,
+      "audio": "triangular-trade.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Vasco Da Gama",
+      "definition": "landed in India in 1498 and claimed territory for Portugal’s empire",
+      "concepts": [
+        "people"
+      ],
+      "region": "ssasia",
+      "audio": "vasco-da-gama.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Viceroyalty",
+      "definition": "the highest ranking Spanish officials in the colonies who enjoyed broad power, but also faced obstacles to their authority in the vast territories they sought to control",
+      "concepts": [
+        "gov"
+      ],
+      "region": "americas",
+      "audio": "viceroyalty.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Yemelyan Pugachev",
+      "definition": "Cossack who began a peasant rebellion against Catherine the Great in 1774 for giving the nobility power over the serfs on their lands in exchange for political loyalty; Pugachev Rebellion",
+      "concepts": [
+        "people"
+      ],
+      "region": "europe",
+      "audio": "yemelyan-pugachev.mp3",
+      "sentence": null
+    },
+    {
+      "term": "Zambos",
+      "definition": "those of mixed indigenous and African ancestry in the Americas",
+      "concepts": [
+        "soc"
+      ],
+      "region": "americas",
+      "audio": "zambos.mp3",
+      "sentence": null
+    }
+  ]
+};
